@@ -1,3 +1,3 @@
 # counter-rust
 
-![image](https://imgur.com/a/xkLlUfi)
+![image](https://github.com/mandiyama/counter-rust/blob/main/img.png)
